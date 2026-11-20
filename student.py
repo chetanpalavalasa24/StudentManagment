@@ -1,5 +1,5 @@
 student_name = "Admin and user"
-city = "Hyderabad"
+city = "Chennai"
 
 print(student_name)
 print(city)
